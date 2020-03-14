@@ -1,0 +1,14 @@
+
+*.pyc
+
+
+# ignore robotframework files
+log.html
+output.xml
+debug.txt
+report.html
+foobar.txt
+
+# ignore virtuvalenv
+venv/*
+env/*
